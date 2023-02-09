@@ -1,0 +1,11 @@
+
+				                
+body{margin-top:20px;}				                                  
+
+.carousel-inner .item {
+  height: 100vh;
+}
+.carousel-inner .item img {
+  height: 100%;
+  width: 100%;
+}
